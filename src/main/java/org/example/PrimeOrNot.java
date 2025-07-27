@@ -22,6 +22,9 @@ public class PrimeOrNot {
                 return false;
             }
             count++;
+
+            System.out.println();
+            
         }
         return true;
     }
